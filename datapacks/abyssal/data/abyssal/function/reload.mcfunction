@@ -7,5 +7,5 @@ reload
 #/function abyssal:reload {mode:"4159"} = gives the installed compatible datapacks
 #/function abyssal:reload {mode:"1014"} = wil be trigger if you join the world for the first time
 #/function abyssal:reload {mode:"4444"} = error code
-# other datapack can detect this
-# other datapack can create more codes
+# other datapack can detect this and run some code 
+# other datapack can also create more codes
