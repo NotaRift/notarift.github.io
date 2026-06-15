@@ -1,5 +1,6 @@
-scoreboard player set mode abyssal 4040
+scoreboard player set mode abyssal 4444
 $scoreboard player set mode abyssal $(code)
+execute if score mode abyssal 
 reload
 
 #/function abyssal:reload {mode:"1056"} = normal minecraft reloading like /reload
