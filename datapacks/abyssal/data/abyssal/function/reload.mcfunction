@@ -1,6 +1,6 @@
 scoreboard player set mode abyssal 4444
 $scoreboard player set mode abyssal $(code)
-execute if score mode abyssal 
+execute if score mode abyssal matches 4444 run return run /tellraw @a ["",{text:"Abyssal:",bold:true,color:"dark_purple"},{text:" BroadCasting Error",bold:true,underlined:true,color:"dark_red"}]
 reload
 
 #/function abyssal:reload {mode:"1056"} = normal minecraft reloading like /reload
