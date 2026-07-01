@@ -1,2 +1,2 @@
 import console
-console help
+console print Hello,/keyboard.space/world!
