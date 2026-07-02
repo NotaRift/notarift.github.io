@@ -1,7 +1,7 @@
-commands
-
+------------------------------------------------
+Console commands
+================================================
 help: shows this text
-
 print: prints the next input
-
 clear: clears the console
+------------------------------------------------
