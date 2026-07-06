@@ -1,1 +1,2 @@
-import console
+import basic-v1
+console print "test"
