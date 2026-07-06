@@ -1,2 +1,2 @@
-import console
-console help
+import basic-v1
+console print "hello"
