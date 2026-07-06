@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /API
+Allow: /
+
+Sitemap: https://www.notarift.github.io/sitemap.xml
