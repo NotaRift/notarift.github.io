@@ -1,2 +1,5 @@
 import basic-v1
-console print "Hello,/space/world!"
+remb msg "Hello,/space/world!"
+remb a "4"
+console print msg
+console print a
